@@ -1,5 +1,6 @@
+# Download this CSV file from this WeTransfer link: https://we.tl/t-la1j2KcLI5
 # Read the CSV file
-data <- read.csv("C:/Users/orlif/OneDrive/Desktop/Baseballll/Rookie Model.csv")
+data <- read.csv("insert_file_path_here")
 
 # Select the average positive change values from the data frame
 changes <- data$Changes
